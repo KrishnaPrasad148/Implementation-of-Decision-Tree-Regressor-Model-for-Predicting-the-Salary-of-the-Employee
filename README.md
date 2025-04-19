@@ -22,7 +22,7 @@ RegisterNumber:  212223230108
 
 ```
 
-```
+```python
 
 import pandas as pd
 data=pd.read_csv("Salary.csv")
